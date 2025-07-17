@@ -43,7 +43,7 @@ A one-stop automation suite for the **Pharos Testnet** and its expanding ecosyst
 git clone https://github.com/RootAlphaProtocol/pharos-bot.git
 ```
 ```bash
-cd Pharos-Automation-Bot
+cd pharos-bot
 ```
 
 2. **Install Dependencies**
