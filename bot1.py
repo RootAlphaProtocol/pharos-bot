@@ -118,10 +118,10 @@ class PharosTestnet:
         print(Fore.GREEN + Style.BRIGHT + "    ⚡ Pharos  BOT ⚡ TELEGRAM LINK : https://t.me/RootAlpha_ProtocoL ")
         print(Fore.CYAN + Style.BRIGHT + "    ────────────────────────────────")
         print(Fore.YELLOW + Style.BRIGHT + "    🧠 Project    : Pharos - Automation Bot")
-        print(Fore.YELLOW + Style.BRIGHT + "    🧑‍💻 Author     : ATeeq and sabbir RootAlphaProtocol")
+        print(Fore.YELLOW + Style.BRIGHT + "    🧑‍💻 Author     : GITHUB LINK : https://github.com/RootAlphaProtocol")
         print(Fore.YELLOW + Style.BRIGHT + "    🌐 Status     : Running & Monitoring...")
         print(Fore.CYAN + Style.BRIGHT + "    ────────────────────────────────")
-        print(Fore.MAGENTA + Style.BRIGHT + "    🧬 Powered by RootAlphaProtocol × Ateeq and Sabbir | Buddy v1.6 🚀")
+        print(Fore.MAGENTA + Style.BRIGHT + "    🧬 Powered by RootAlphaProtocol × ATEEQ UR REHMAN  🇵🇰  SABBIR AHMED SA  🇧🇩 | Buddy v1.6 🚀")
         print(Fore.LIGHTGREEN_EX + Style.BRIGHT + "═" * 60 + "\n")
 
     def format_seconds(self, seconds):
