@@ -85,7 +85,7 @@ class PharosTestnet:
                 "type": "function",
             },
         ]
-        self.ref_code = "8G8MJ3zGE5B7tJgP"
+        self.ref_code = "tcDLjpwsDbb0ynSy"
         self.proxies = []
         self.proxy_index = 0
         self.account_proxies = {}
@@ -118,10 +118,10 @@ class PharosTestnet:
         print(Fore.GREEN + Style.BRIGHT + "    ⚡ Pharos Testnet Automation BOT ⚡")
         print(Fore.CYAN + Style.BRIGHT + "    ────────────────────────────────")
         print(Fore.YELLOW + Style.BRIGHT + "    🧠 Project    : Pharos - Automation Bot")
-        print(Fore.YELLOW + Style.BRIGHT + "    🧑‍💻 Author     : YetiDAO")
+        print(Fore.YELLOW + Style.BRIGHT + "    🧑‍💻 Author     : ATeeq and sabbir RootAlphaProtocol")
         print(Fore.YELLOW + Style.BRIGHT + "    🌐 Status     : Running & Monitoring...")
         print(Fore.CYAN + Style.BRIGHT + "    ────────────────────────────────")
-        print(Fore.MAGENTA + Style.BRIGHT + "    🧬 Powered by Cryptodai3 × YetiDAO | Buddy v1.6 🚀")
+        print(Fore.MAGENTA + Style.BRIGHT + "    🧬 Powered by RootAlphaProtocol × Ateeq and Sabbir | Buddy v1.6 🚀")
         print(Fore.LIGHTGREEN_EX + Style.BRIGHT + "═" * 60 + "\n")
 
     def format_seconds(self, seconds):
